@@ -1,0 +1,3 @@
+pswd=rYC8Fxx6baJFjAMK
+
+uri=mongodb+srv://abhi7:<password>@abhicluster.epylxmm.mongodb.net/
